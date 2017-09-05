@@ -7,3 +7,10 @@ source env/bin/activate
 pip install -r requirements.txt
 #### executando a aplicacao
 python run.py
+
+
+## Instalando o sqlitebrowser para visualizar banco de dados da aplicação
+
+sudo add-apt-repository -y ppa:linuxgndu/sqlitebrowser
+sudo apt-get update
+sudo apt-get install sqlitebrowser
