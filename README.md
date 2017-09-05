@@ -11,6 +11,6 @@ python run.py
 
 ## Instalando o sqlitebrowser para visualizar banco de dados da aplicação
 
-sudo add-apt-repository -y ppa:linuxgndu/sqlitebrowser
-sudo apt-get update
-sudo apt-get install sqlitebrowser
+sudo add-apt-repository -y ppa:linuxgndu/sqlitebrowser<br>
+sudo apt-get update<br>
+sudo apt-get install sqlitebrowser<br>
